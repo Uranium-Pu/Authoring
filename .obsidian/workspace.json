@@ -1,126 +1,41 @@
 {
   "main": {
-    "id": "891e2c595d4c3132",
+    "id": "d58b18bcef7c97ce",
     "type": "split",
     "children": [
       {
-        "id": "56c3f8ca2a82c008",
+        "id": "288cf5550e54a94b",
         "type": "tabs",
         "children": [
           {
-            "id": "c05921d5a3ecf10a",
+            "id": "9e628bb4ef6d458b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Authoring/Present/Faults/Openness Traditionalism.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Openness Traditionalism"
-            }
-          },
-          {
-            "id": "d770219a095fbec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authoring/Present/Faults/Agreeable_Assertive.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agreeable_Assertive"
-            }
-          },
-          {
-            "id": "5377712a3c340373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authoring/Present/Faults/Emotional Stability Low Stress Tolerance.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emotional Stability Low Stress Tolerance"
-            }
-          },
-          {
-            "id": "d60393a85bcd51f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authoring/Present/Faults/Conscientiousness Carelessness.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Conscientiousness Carelessness"
-            }
-          },
-          {
-            "id": "33d63bdb6d45f64c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authoring/Past/Epochs.md",
+                "file": "Authoring/Habits/Do not feel that I always have to be in control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epochs"
-            }
-          },
-          {
-            "id": "7842b4d5fd158e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authoring/Past/Past Authoring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Past Authoring"
-            }
-          },
-          {
-            "id": "1080e1896edc769f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big 5/Big 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big 5"
+              "title": "Do not feel that I always have to be in control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bcc7f8049b18fdd4",
+    "id": "3d76f118d0bc2701",
     "type": "split",
     "children": [
       {
-        "id": "4e568897fe448050",
+        "id": "02e006fd2f1ee602",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca429f605304e4e",
+            "id": "8d1f12c3f4b7797b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -133,12 +48,12 @@
             }
           },
           {
-            "id": "ec859d543bde934a",
+            "id": "b40663617432fee5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tier-list",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +65,7 @@
             }
           },
           {
-            "id": "36eadbc58c3bd345",
+            "id": "5fd04f773fd4fa91",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -163,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fcd540aad519504d",
+    "id": "47d0478e8d68c992",
     "type": "split",
     "children": [
       {
-        "id": "c7b9a65ad2660ea7",
+        "id": "b1e9d3c4402ab239",
         "type": "tabs",
         "children": [
           {
-            "id": "800461bb4487cf16",
+            "id": "38dcdaa64df4945e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Authoring/Present/Faults/Emotional Stability Low Stress Tolerance.md",
+                "file": "Authoring/Habits/Do not feel that I always have to be in control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Emotional Stability Low Stress Tolerance"
+              "title": "Backlinks for Do not feel that I always have to be in control"
             }
           },
           {
-            "id": "b6711de159c1c901",
+            "id": "59cc3096632ed301",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Authoring/Present/Faults/Emotional Stability Low Stress Tolerance.md",
+                "file": "Authoring/Habits/Do not feel that I always have to be in control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Emotional Stability Low Stress Tolerance"
+              "title": "Outgoing links from Do not feel that I always have to be in control"
             }
           },
           {
-            "id": "3bbf47cde39704c8",
+            "id": "62ccf56eb7496de5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,7 +137,7 @@
             }
           },
           {
-            "id": "c21d98246e6d4126",
+            "id": "43b48b7c668e9d7b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -236,32 +151,22 @@
             }
           },
           {
-            "id": "3a6d5f8546e6d369",
+            "id": "db833fdf5a183b47",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authoring/Present/Faults/Emotional Stability Low Stress Tolerance.md",
+                "file": "Authoring/Habits/Do not feel that I always have to be in control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Emotional Stability Low Stress Tolerance"
+              "title": "Outline of Do not feel that I always have to be in control"
             }
           },
           {
-            "id": "a5e4ae47efa82c3a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
-          },
-          {
-            "id": "5033412057e3e50f",
+            "id": "56ad45c40ad1f9e9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -271,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,48 +191,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1080e1896edc769f",
+  "active": "8d1f12c3f4b7797b",
   "lastOpenFiles": [
-    "Big 5",
+    "Authoring/Habits/Often feel depressed and blue.md",
+    "Authoring/Habits/Never do more work than is necessary.md",
+    "Authoring/Habits/Do not feel that I always have to be in control.md",
+    "System/Template",
+    "System/Excalidraw",
+    "System",
     "Big 5/report.pdf",
-    "Authoring/Past/Past Authoring.md",
     "Big 5/Big 5.md",
-    "Authoring/Past/Epochs.md",
-    "Do not feel that I always have to be in control.md",
-    "Authoring/Habits/Sometimes act without thinking.md",
-    "Authoring/Habits/Often feel uncomfortable around others.md",
-    "Authoring/Habits/Cannot tolerate having to finish a task imperfectly or quickly.md",
-    "Often feel depressed and blue.md",
-    "Authoring/Present/Faults/Emotional Stability Low Stress Tolerance.md",
-    "Authoring/Present/Faults/Extraversion Introversion.md",
+    "Big 5",
     "Authoring/Present/Faults/Openness Traditionalism.md",
-    "Authoring/Present/Faults/Agreeable_Assertive.md",
+    "Authoring/Present/Faults/Extraversion Introversion.md",
+    "Authoring/Present/Faults/Emotional Stability Low Stress Tolerance.md",
     "Authoring/Present/Faults/Conscientiousness Carelessness.md",
-    "Never do more work than is necessary.md",
-    "Authoring/Untitled.md",
-    "Authoring/Extraversion Introversion Habits.md",
-    "Authoring/Present/Faults/Habit Selection.md",
-    "Authoring/Habits/Am good at a too-narrow range of things.md",
-    "Authoring/Habits/Always believe that failure is a consequence of insufficient personal effort.md",
-    "Authoring/Habits",
-    "Authoring/Habits/Believe people are basically good, even when there is evidence to the contrary.md",
-    "Authoring/Habits/Infrequently help others.md",
-    "Authoring/Habits/Insult people.md",
-    "Authoring/Habits/Am willing to manipulate others for personal gain.md",
-    "Authoring/Habits/Can be vengeful.md",
-    "Authoring/Habits/Don't generally show gratitude.md",
-    "Authoring/Past",
-    "Authoring/Future",
-    "Authoring/Present",
+    "Authoring/Present/Faults/Agreeable_Assertive.md",
     "Authoring/Present/Virtues",
     "Authoring/Present/Faults",
-    "System",
-    "System/Excalidraw",
-    "Authoring"
+    "Authoring/Present",
+    "Authoring/Past/Past Authoring.md",
+    "Authoring/Past/Epochs.md",
+    "Authoring/Past",
+    "Authoring/Habits/Would probably help me if I could be more competitive.md",
+    "Authoring/Habits/Will work on a project beyond what is useful and necessary.md",
+    "Authoring/Habits/Will sacrifice my own feelings for the comfort of others.md",
+    "Authoring/Habits/Will not probe deeply into a subject.md",
+    "Authoring/Habits/Will charm people to get my way.md",
+    "Authoring/Habits/Waste my time.md",
+    "Authoring/Habits/Wait for others to lead the way.md",
+    "Authoring/Habits/Try too hard to be the center of attention.md",
+    "Authoring/Habits/Try to avoid complex people.md",
+    "Authoring/Habits/Trust people too easily.md",
+    "Authoring/Habits/Tend to think that creative people are strange.md",
+    "Authoring/Habits/Tend to always put myself first.md",
+    "Authoring/Habits/Talk about myself a lot.md",
+    "Authoring/Habits/Surf the web or watch TV or waste time in other ways even if I have a project due.md",
+    "Authoring/Habits/Sometimes talk too loudly.md",
+    "Authoring/Habits"
   ]
 }
